@@ -191,21 +191,21 @@ const products = [
     },
     {
         id: 22,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Fralda-calca Mamypoko Cuidado Real Tamanho Rn c/ 36 Unidades",
+        price: 44.66,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_873741-MLA96138870965_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1BbbiQR" // Adicione seu link aqui
     },
     {
         id: 23,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Berço C/colchão Ditália Multifuncional 3x1 Bbi-51 Br Cozy",
+        price: 459.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_984230-MLB89123516637_082025-F-berco-ccolcho-ditalia-multifuncional-3x1-bbi-51-br-cozy.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2j5d5Dk" // Adicione seu link aqui
     },
     {
         id: 24,
