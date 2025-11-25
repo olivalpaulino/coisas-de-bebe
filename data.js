@@ -83,12 +83,12 @@ const products = [
     },
     {
         id: 10,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Tapete Ginásio De Atividades C/ Piano Musical Castela Brasil",
+        price: 63.17,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_716032-MLB98739662747_112025-F-tapete-ginasio-de-atividades-c-piano-musical-castela-brasil.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1YzJSDt" // Adicione seu link aqui
     },
     {
         id: 11,
