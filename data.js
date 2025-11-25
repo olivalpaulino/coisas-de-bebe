@@ -71,6 +71,204 @@ const products = [
         shipping: "Frete grátis",
         freeShipping: true,
         link: "https://mercadolivre.com/sec/2tJTRae" // Adicione seu link aqui
-    }
+    },
+    {
+        id: 9,
+        title: "Tapete Infantil Dobrável Impermeável Antiderrapante Conforto",
+        price: 99.99,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_620077-MLB98006234767_112025-F-tapete-infantil-dobravel-impermeavel-antiderrapante-conforto.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2ovBod7" // Adicione seu link aqui
+    },
+    {
+        id: 10,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 11,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 12,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 13,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 14,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 15,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 16,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 17,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 18,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 19,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 20,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 21,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 22,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 23,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 24,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 25,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 26,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 27,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 28,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 29,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
+    {
+        id: 30,
+        title: "",
+        price: 33.34,
+        image: "",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "" // Adicione seu link aqui
+    },
 ];
 
