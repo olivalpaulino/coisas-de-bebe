@@ -146,12 +146,12 @@ const products = [
     },
     {
         id: 17,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Kit Roupa De Bebe 9 Peças Body E Calça Algodão De Menino",
+        price: 107.91,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_676107-MLB87203033291_072025-F-kit-roupa-de-bebe-9-pecas-body-e-calca-algodo-de-menino.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1ZQ1C1i" // Adicione seu link aqui
     },
     {
         id: 18,
