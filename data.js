@@ -278,6 +278,24 @@ const products = [
         shipping: "Frete grátis",
         freeShipping: true,
         link: "https://mercadolivre.com/sec/1LCvJf9" // Adicione seu link aqui
+    },
+    {
+        id: 32,
+        title: "Ninho Redutor De Berço Trança Mosquiteiro Bebê Menina Menino",
+        price: 122.39,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_804665-MLB92305134773_092025-F-ninho-redutor-de-berco-tranca-mosquiteiro-beb-menina-menino.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2GkiwrA" // Adicione seu link aqui
+    },
+    {
+        id: 33,
+        title: "Ninho Redutor Com Mosquiteiro E Nome Personalizado",
+        price: 118.92,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_989688-MLB91295302841_082025-F-ninho-redutor-com-mosquiteiro-e-nome-personalizado.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2m9N7Rg" // Adicione seu link aqui
     }
 ];
 
