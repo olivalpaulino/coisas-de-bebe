@@ -137,12 +137,12 @@ const products = [
     },
     {
         id: 16,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Kit Enxoval 30 Peças Roupinha De Bebê Body Calça Algodão",
+        price: 121.61,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_975077-MLB89117992564_082025-F-kit-enxoval-30-pecas-roupinha-de-beb-body-calca-algodo.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2ZQxdCL" // Adicione seu link aqui
     },
     {
         id: 17,
