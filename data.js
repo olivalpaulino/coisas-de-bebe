@@ -164,12 +164,12 @@ const products = [
     },
     {
         id: 19,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Kit 21 Pçs Maternidade Roupa De Bebê Frete Gratis",
+        price: 72.12,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_855386-MLB85296983284_062025-F-kit-21-pcs-maternidade-roupa-de-beb-frete-gratis.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2MijFwX" // Adicione seu link aqui
     },
     {
         id: 20,
