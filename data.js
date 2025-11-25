@@ -270,5 +270,14 @@ const products = [
         freeShipping: true,
         link: "https://mercadolivre.com/sec/1NS4zW8" // Adicione seu link aqui
     },
+    {
+        id: 31,
+        title: "Garrafa térmica Termolar Lúmina Bomba de Pressão 1L",
+        price: 73.89,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_867151-MLA95634202854_102025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/1LCvJf9" // Adicione seu link aqui
+    }
 ];
 
