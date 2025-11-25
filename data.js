@@ -119,12 +119,12 @@ const products = [
     },
     {
         id: 14,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Rosa",
+        price: 251.89,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_913179-MLA96100710497_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1nYbFGN" // Adicione seu link aqui
     },
     {
         id: 15,
