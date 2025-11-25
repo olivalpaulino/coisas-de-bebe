@@ -155,12 +155,12 @@ const products = [
     },
     {
         id: 18,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Kit 9 Peças Roupa De Bebe Menina Body E Calça Mijão Algodão",
+        price: 107.91,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_605623-MLB79318695068_092024-F-kit-9-pecas-roupa-de-bebe-menina-body-e-calca-mijo-algodo.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1tNDhdV" // Adicione seu link aqui
     },
     {
         id: 19,
