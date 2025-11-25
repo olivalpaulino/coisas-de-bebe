@@ -245,12 +245,12 @@ const products = [
     },
     {
         id: 28,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Umidificador Ultrassonico Allergy Free Dual Bivolt G-tech",
+        price: 139.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_835583-MLU75771913004_042024-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1j3Fd2i" // Adicione seu link aqui
     },
     {
         id: 29,
