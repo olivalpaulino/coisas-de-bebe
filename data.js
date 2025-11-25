@@ -218,12 +218,12 @@ const products = [
     },
     {
         id: 25,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Jogo De Quarto Infantil Com Colchão Trevalla Móveis Pom Pom Cor Branco",
+        price: 800.10,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_842776-MLA95393812050_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1MVqntv" // Adicione seu link aqui
     },
     {
         id: 26,
