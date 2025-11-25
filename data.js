@@ -254,21 +254,21 @@ const products = [
     },
     {
         id: 29,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Mosquiteiro Berço Tela Mosquiteira Cortinado Rede Véu Bebê Cor Branco",
+        price: 39.92,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_826363-MLA95657508710_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2WrxRsV" // Adicione seu link aqui
     },
     {
         id: 30,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Sugador Aspirador Nasal Bebê Usb Limpeza Nariz Ouvido Azul",
+        price: 43.64,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_807509-MLB93635758549_092025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1NS4zW8" // Adicione seu link aqui
     },
 ];
 
