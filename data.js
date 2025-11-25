@@ -236,12 +236,12 @@ const products = [
     },
     {
         id: 27,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Inalador Nebulizador Compressor Infantil Adulto Bivolt Leve Branco",
+        price: 130.50,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_704323-MLB92647884907_092025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1yRN3Mb" // Adicione seu link aqui
     },
     {
         id: 28,
