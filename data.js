@@ -419,5 +419,17 @@ const products = [
         storeName: "Acessórios Baby",
         soldQuantity: 985,
         availableQuantity: 74
+    },
+    {
+        id: 36,
+        title: "Colher Dosadora Buba - Oferecer Papinha E Leite Materno Cor Azul",
+        price: 35.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_871392-MLA95686657762_102025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2i4r2yc",
+        storeName: "Acessórios Baby",
+        soldQuantity: 3250,
+        availableQuantity: 269
     }
 ];
