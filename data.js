@@ -227,12 +227,12 @@ const products = [
     },
     {
         id: 26,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Quarto De Bebê Completo Berço Americano Marquesa Cômoda Uli",
+        price: 888.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_775584-MLB98060413692_112025-F-quarto-de-beb-completo-berco-americano-marquesa-cmoda-uli.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1giRRBt" // Adicione seu link aqui
     },
     {
         id: 27,
