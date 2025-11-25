@@ -431,5 +431,17 @@ const products = [
         storeName: "Acessórios Baby",
         soldQuantity: 3250,
         availableQuantity: 269
-    }
+    },
+    {
+        id: 37,
+        title: "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menina",
+        price: 38.00,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_916127-MLA95936134691_102025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/1EX7RdM",
+        storeName: "Acessórios Baby",
+        soldQuantity: 2185,
+        availableQuantity: 134
+    },
 ];
