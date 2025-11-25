@@ -173,12 +173,12 @@ const products = [
     },
     {
         id: 20,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "A Roupas De Natal Para Bebês Com Mangas, Saias De Malha",
+        price: 208.62,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_736395-MLB98733620024_112025-F-a-roupas-de-natal-para-bebs-com-mangas-saias-de-malha.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2SnzcQr" // Adicione seu link aqui
     },
     {
         id: 21,
