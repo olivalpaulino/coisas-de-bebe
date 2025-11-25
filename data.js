@@ -468,4 +468,16 @@ const products = [
         soldQuantity: 125,
         availableQuantity: 26
     },
+    {
+        id: 40,
+        title: "Wrap Sling Canguru De Vestir P Bebê Ajustável Do Pp Ao G1 Cor Preto Cor Tamanho Único",
+        price: 169.79,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_626875-MLA96096244523_102025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2HHTMST",
+        storeName: "Acessórios Baby",
+        soldQuantity: 1.395,
+        availableQuantity: 42
+    },
 ];
