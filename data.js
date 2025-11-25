@@ -456,4 +456,16 @@ const products = [
         soldQuantity: 267,
         availableQuantity: 33
     },
+    {
+        id: 39,
+        title: "Kit Enxoval 36 Peças Bebê Unissex Body Calça Luva Algodão",
+        price: 135.79,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_761170-MLB93339226822_092025-F-kit-enxoval-36-pecas-beb-unissex-body-calca-luva-algodo.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/1MzHqNe",
+        storeName: "Acessórios Baby",
+        soldQuantity: 125,
+        availableQuantity: 26
+    },
 ];
