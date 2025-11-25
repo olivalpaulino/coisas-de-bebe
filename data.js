@@ -182,12 +182,12 @@ const products = [
     },
     {
         id: 21,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "02 Pacotes Fraldas Turma Da Mônica + 280 Toalhas Umedecidas",
+        price: 95.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_814088-MLB93993094835_102025-F-02-pacotes-fraldas-turma-da-mnica-280-toalhas-umedecidas.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/16rWgnN" // Adicione seu link aqui
     },
     {
         id: 22,
