@@ -395,5 +395,29 @@ const products = [
         storeName: "Acessórios Baby",
         soldQuantity: 445,
         availableQuantity: 27
+    },
+    {
+        id: 34,
+        title: "Poltrona Decorativa Veludo Sala Quarto Amamentação Pés Metal Castor Liso",
+        price: 899.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_805776-MLB99296707793_112025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2qLwfc8",
+        storeName: "Acessórios Baby",
+        soldQuantity: 325,
+        availableQuantity: 15
+    },
+    {
+        id: 35,
+        title: "Almofada De Amamentação Para Bebe Travesseiro Super Macio Algodão - Safari Azul Marinho",
+        price: 27.84,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_950495-MLA96419532760_102025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2EihRHM",
+        storeName: "Acessórios Baby",
+        soldQuantity: 985,
+        availableQuantity: 74
     }
 ];
