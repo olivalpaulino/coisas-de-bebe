@@ -480,4 +480,16 @@ const products = [
         soldQuantity: 1.395,
         availableQuantity: 42
     },
+    {
+        id: 41,
+        title: "Babá Eletrônica Sem Fio Olanenem 1080p 7 Lcd Tela Grande Segura À Prova De Hackers Visão Noturna Alta Definição 300m Comunicação Bidirecional Babá Monitor Bateria 5000mah Superautonomia Alarme Choro",
+        price: 496.00,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_876080-MLA97120709531_112025-F.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2nZmeRJ",
+        storeName: "Acessórios Baby",
+        soldQuantity: 733,
+        availableQuantity: 66
+    },
 ];
