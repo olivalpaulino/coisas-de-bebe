@@ -101,12 +101,12 @@ const products = [
     },
     {
         id: 12,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Volante Interativo Infantil Musical Luz Simulador Unissex",
+        price: 72.70,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_849920-MLB82944288262_032025-F-volante-interativo-infantil-musical-luz-simulador-unissex.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/345z3P4" // Adicione seu link aqui
     },
     {
         id: 13,
