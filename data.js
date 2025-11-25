@@ -209,12 +209,12 @@ const products = [
     },
     {
         id: 24,
-        title: "",
-        price: 33.34,
-        image: "",
+        title: "Berço Bebê Trocador Desmontável Mobile Baby Style Rosa Joly Cor Cinza/rosa",
+        price: 458.05,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_744077-MLA95834960359_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1wXFZx9" // Adicione seu link aqui
     },
     {
         id: 25,
