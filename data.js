@@ -7,7 +7,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_897453-MLA96112590357_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/28h2Azr" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/28h2Azr",
+        storeName: "Baby Store Premium",
+        soldQuantity: 245,
+        availableQuantity: 18
     },
     {
         id: 2,
@@ -16,7 +19,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_660568-MLB88359216828_072025-F-kit-15-pecas-roupas-beb-body-calca-touca-enxoval-completo.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1TxPnsK" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1TxPnsK",
+        storeName: "Enxovais & Cia",
+        soldQuantity: 1280,
+        availableQuantity: 45
     },
     {
         id: 3,
@@ -25,7 +31,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_758566-MLB97108805764_112025-F-kit-5-macaco-de-beb-vira-pe-estampado-menino-e-menina.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1B6HZEm" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1B6HZEm",
+        storeName: "Moda Infantil Brasil",
+        soldQuantity: 892,
+        availableQuantity: 32
     },
     {
         id: 4,
@@ -34,7 +43,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_730605-MLB95926174392_102025-F-kit-bolsa-mala-bebe-saida-de-maternidade-mega-promoco.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/14v4kiF" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/14v4kiF",
+        storeName: "Maternidade Shop",
+        soldQuantity: 567,
+        availableQuantity: 25
     },
     {
         id: 5,
@@ -43,7 +55,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_883106-MLB89560860671_082025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2X71phw" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2X71phw",
+        storeName: "Cuidados Baby",
+        soldQuantity: 1234,
+        availableQuantity: 58
     },
     {
         id: 6,
@@ -52,7 +67,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_617396-MLB97309932192_112025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2waig2G" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2waig2G",
+        storeName: "Móveis Baby",
+        soldQuantity: 156,
+        availableQuantity: 12
     },
     {
         id: 7,
@@ -61,7 +79,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_778167-MLA96099109647_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2e85YdZ" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2e85YdZ",
+        storeName: "Baby Move",
+        soldQuantity: 423,
+        availableQuantity: 22
     },
     {
         id: 8,
@@ -70,7 +91,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_698803-MLU70921776831_082023-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2tJTRae" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2tJTRae",
+        storeName: "Saúde Infantil",
+        soldQuantity: 987,
+        availableQuantity: 67
     },
     {
         id: 9,
@@ -79,7 +103,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_620077-MLB98006234767_112025-F-tapete-infantil-dobravel-impermeavel-antiderrapante-conforto.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2ovBod7" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2ovBod7",
+        storeName: "Brinquedos & Decoração",
+        soldQuantity: 634,
+        availableQuantity: 38
     },
     {
         id: 10,
@@ -88,7 +115,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_716032-MLB98739662747_112025-F-tapete-ginasio-de-atividades-c-piano-musical-castela-brasil.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1YzJSDt" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1YzJSDt",
+        storeName: "Brinquedos Educativos",
+        soldQuantity: 782,
+        availableQuantity: 42
     },
     {
         id: 11,
@@ -97,7 +127,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_782243-MLB89492028654_082025-F-pato-dancante-brinquedo-musical-luz-som-infantil-mexe.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2bYX2rf" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2bYX2rf",
+        storeName: "Brinquedos Divertidos",
+        soldQuantity: 1456,
+        availableQuantity: 89
     },
     {
         id: 12,
@@ -106,7 +139,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_849920-MLB82944288262_032025-F-volante-interativo-infantil-musical-luz-simulador-unissex.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/345z3P4" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/345z3P4",
+        storeName: "Brinquedos Interativos",
+        soldQuantity: 521,
+        availableQuantity: 29
     },
     {
         id: 13,
@@ -115,7 +151,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_894900-MLA96110883689_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2Pt7uAf" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2Pt7uAf",
+        storeName: "Segurança Infantil",
+        soldQuantity: 389,
+        availableQuantity: 19
     },
     {
         id: 14,
@@ -124,7 +163,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_913179-MLA96100710497_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1nYbFGN" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1nYbFGN",
+        storeName: "Segurança Infantil",
+        soldQuantity: 312,
+        availableQuantity: 16
     },
     {
         id: 15,
@@ -133,7 +175,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_998855-MLA95690878894_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2mY9A4E" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2mY9A4E",
+        storeName: "Baby Move",
+        soldQuantity: 278,
+        availableQuantity: 15
     },
     {
         id: 16,
@@ -142,7 +187,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_975077-MLB89117992564_082025-F-kit-enxoval-30-pecas-roupinha-de-beb-body-calca-algodo.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2ZQxdCL" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2ZQxdCL",
+        storeName: "Enxovais & Cia",
+        soldQuantity: 1098,
+        availableQuantity: 52
     },
     {
         id: 17,
@@ -151,7 +199,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_676107-MLB87203033291_072025-F-kit-roupa-de-bebe-9-pecas-body-e-calca-algodo-de-menino.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1ZQ1C1i" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1ZQ1C1i",
+        storeName: "Moda Infantil Brasil",
+        soldQuantity: 756,
+        availableQuantity: 34
     },
     {
         id: 18,
@@ -160,7 +211,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_605623-MLB79318695068_092024-F-kit-9-pecas-roupa-de-bebe-menina-body-e-calca-mijo-algodo.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1tNDhdV" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1tNDhdV",
+        storeName: "Moda Infantil Brasil",
+        soldQuantity: 834,
+        availableQuantity: 41
     },
     {
         id: 19,
@@ -169,7 +223,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_855386-MLB85296983284_062025-F-kit-21-pcs-maternidade-roupa-de-beb-frete-gratis.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2MijFwX" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2MijFwX",
+        storeName: "Maternidade Shop",
+        soldQuantity: 1423,
+        availableQuantity: 76
     },
     {
         id: 20,
@@ -178,7 +235,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_736395-MLB98733620024_112025-F-a-roupas-de-natal-para-bebs-com-mangas-saias-de-malha.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2SnzcQr" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2SnzcQr",
+        storeName: "Moda Temática",
+        soldQuantity: 445,
+        availableQuantity: 28
     },
     {
         id: 21,
@@ -187,7 +247,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_814088-MLB93993094835_102025-F-02-pacotes-fraldas-turma-da-mnica-280-toalhas-umedecidas.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/16rWgnN" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/16rWgnN",
+        storeName: "Higiene Baby",
+        soldQuantity: 2134,
+        availableQuantity: 112
     },
     {
         id: 22,
@@ -196,7 +259,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_873741-MLA96138870965_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1BbbiQR" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1BbbiQR",
+        storeName: "Higiene Baby",
+        soldQuantity: 1897,
+        availableQuantity: 95
     },
     {
         id: 23,
@@ -205,7 +271,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_984230-MLB89123516637_082025-F-berco-ccolcho-ditalia-multifuncional-3x1-bbi-51-br-cozy.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2j5d5Dk" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2j5d5Dk",
+        storeName: "Móveis Baby",
+        soldQuantity: 267,
+        availableQuantity: 14
     },
     {
         id: 24,
@@ -214,7 +283,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_744077-MLA95834960359_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1wXFZx9" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1wXFZx9",
+        storeName: "Móveis Baby",
+        soldQuantity: 198,
+        availableQuantity: 11
     },
     {
         id: 25,
@@ -223,7 +295,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_842776-MLA95393812050_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1MVqntv" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1MVqntv",
+        storeName: "Móveis Baby",
+        soldQuantity: 89,
+        availableQuantity: 8
     },
     {
         id: 26,
@@ -232,7 +307,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_775584-MLB98060413692_112025-F-quarto-de-beb-completo-berco-americano-marquesa-cmoda-uli.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1giRRBt" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1giRRBt",
+        storeName: "Móveis Baby",
+        soldQuantity: 67,
+        availableQuantity: 5
     },
     {
         id: 27,
@@ -241,7 +319,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_704323-MLB92647884907_092025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1yRN3Mb" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1yRN3Mb",
+        storeName: "Saúde Infantil",
+        soldQuantity: 623,
+        availableQuantity: 48
     },
     {
         id: 28,
@@ -250,7 +331,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_835583-MLU75771913004_042024-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1j3Fd2i" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1j3Fd2i",
+        storeName: "Saúde Infantil",
+        soldQuantity: 412,
+        availableQuantity: 31
     },
     {
         id: 29,
@@ -259,7 +343,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_826363-MLA95657508710_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2WrxRsV" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2WrxRsV",
+        storeName: "Acessórios Baby",
+        soldQuantity: 1156,
+        availableQuantity: 73
     },
     {
         id: 30,
@@ -268,7 +355,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_807509-MLB93635758549_092025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1NS4zW8" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1NS4zW8",
+        storeName: "Cuidados Baby",
+        soldQuantity: 892,
+        availableQuantity: 56
     },
     {
         id: 31,
@@ -277,7 +367,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_867151-MLA95634202854_102025-F.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/1LCvJf9" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/1LCvJf9",
+        storeName: "Acessórios Baby",
+        soldQuantity: 534,
+        availableQuantity: 39
     },
     {
         id: 32,
@@ -286,7 +379,10 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_804665-MLB92305134773_092025-F-ninho-redutor-de-berco-tranca-mosquiteiro-beb-menina-menino.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2GkiwrA" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2GkiwrA",
+        storeName: "Acessórios Baby",
+        soldQuantity: 678,
+        availableQuantity: 44
     },
     {
         id: 33,
@@ -295,7 +391,9 @@ const products = [
         image: "https://http2.mlstatic.com/D_NQ_NP_2X_989688-MLB91295302841_082025-F-ninho-redutor-com-mosquiteiro-e-nome-personalizado.webp",
         shipping: "Frete grátis",
         freeShipping: true,
-        link: "https://mercadolivre.com/sec/2m9N7Rg" // Adicione seu link aqui
+        link: "https://mercadolivre.com/sec/2m9N7Rg",
+        storeName: "Acessórios Baby",
+        soldQuantity: 445,
+        availableQuantity: 27
     }
 ];
-
