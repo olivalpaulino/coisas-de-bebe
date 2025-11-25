@@ -444,4 +444,16 @@ const products = [
         soldQuantity: 2185,
         availableQuantity: 134
     },
+    {
+        id: 38,
+        title: "Lote Para Bebê Atacado Kit Com 12 Peças Bore E Bermudinha",
+        price: 159.89,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_698411-MLB71966744854_092023-F-lote-para-beb-atacado-kit-com-12-pecas-bore-e-bermudinha.webp",
+        shipping: "Frete grátis",
+        freeShipping: true,
+        link: "https://mercadolivre.com/sec/2i8P76o",
+        storeName: "Acessórios Baby",
+        soldQuantity: 267,
+        availableQuantity: 33
+    },
 ];
